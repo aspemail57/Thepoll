@@ -21,6 +21,9 @@ body{
     color:#4d3c61;
   }
 
+  .margin-top{
+    margin-top: 20px;
+  }
 
   /* Header **/
 header{
@@ -181,6 +184,36 @@ label.light {
   background: grey;
   height: 500px;
   min-width: 300px;
+}
+
+input[type="text"] {
+  border: none;
+  font-size: 16px;
+  height: auto;
+  margin: 0;
+  outline: 0;
+  padding: 15px;
+  width: 50%;
+  background-color: #e8eeef;
+  color: #8a97a0;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+  margin-bottom: 30px;
+}
+
+button {
+  padding: 19px 39px 18px 39px;
+  color: #FFF;
+  background-color: #3c615f;
+  font-size: 18px;
+  text-align: center;
+  font-style: normal;
+  border-radius: 5px;
+  width: 40%;
+  border: 1px solid #3ac162;
+  border-width: 1px 1px 3px;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.1) inset;
+  margin: 10px 0 10px 10px;
+  min-width: 250px;
 }
 
 
