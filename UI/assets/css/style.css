@@ -25,9 +25,13 @@ body{
     margin-top: 20px;
   }
 
+  .danger{
+    background: rgb(163, 7, 7);
+  }
+
   /* Header **/
 header{
-    background:#3c615f;
+    background:#2b4644;
     color:#ffffff;
     padding-top:30px;
     min-height:70px;
